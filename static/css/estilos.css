@@ -16,8 +16,6 @@
 	border: 5px solid red;
 	border-radius: 50%;
 }
-.Header-imageDescription{
-}
 .Header-link{
 	color: white;
 	font-size: 2.2em;
@@ -61,10 +59,6 @@
 .Profile{
 	text-align: center;
 }
-.Profile-title{
-}
-.Profile-description{
-}
 .Profile-link{
 	background: #72E7C4;
 	color: #FFFFFF;
@@ -80,8 +74,6 @@
 	margin-top: 2em;
 	text-align: center;
 }
-.Work-title{
-}
 .Work-item{
 	display: inline-block;
 	margin-right: 4em;
@@ -90,8 +82,6 @@
 }
 .Work-imageContainer{
 	margin: 0;
-}
-.Work-image{
 }
 .Work-description{
 	font-size: 1.1em;
