@@ -47,7 +47,7 @@
 .MainMenu-item{
 	display: inline-block;
 }
-.MainMenu-link{
+.MainMenu-link {
 	color: #FFFFFF;
 	text-decoration: none;
 	line-height: 3.57em;
@@ -56,10 +56,10 @@
 
 /* Profile
    ========================================================================== */
-.Profile{
+.Profile {
 	text-align: center;
 }
-.Profile-link{
+.Profile-link {
 	background: #72E7C4;
 	color: #FFFFFF;
 	text-decoration: none;
@@ -70,20 +70,20 @@
 
 /* Work
    ========================================================================== */
-.Work{
+.Work {
 	margin-top: 2em;
 	text-align: center;
 }
-.Work-item{
+.Work-item {
 	display: inline-block;
 	margin-right: 4em;
 	margin-bottom: 1.8em;
 	margin-bottom: 1.8em;
 }
-.Work-imageContainer{
+.Work-imageContainer {
 	margin: 0;
 }
-.Work-description{
+.Work-description {
 	font-size: 1.1em;
 	color: #E97373;
 	font-style: italic;
@@ -91,7 +91,7 @@
 
 /* Footer
    ========================================================================== */
-.Footer{
+.Footer {
 	background-image: url('../images/footer.png');
 	margin-bottom: 500px;
 	background-repeat: no-repeat;
@@ -99,17 +99,17 @@
 	background-size: cover;
 	text-align: center;
 }
-.Footer-title{
+.Footer-title {
 	color: #FFFFFF;
 }
-.Footer-description{
+.Footer-description {
 	color: #FFFFFF;
 }
-.Footer-form{
+.Footer-form {
 	text-align: center;
 }
 .Footer-fromInput,
-.Footer-textarea{
+.Footer-textarea {
 	background: #FFFFFF;
 	border: none;
 	display: block;
@@ -118,20 +118,20 @@
 	border-radius: 2em;
 	padding: .5em;
 }
-.Footer-button{
+.Footer-button {
 	background: #EF7436;
 	color: #FFFFFF;
 	border-radius: 1em;
 	border: none;
 	padding: .5em 1em;
 }
-.Footer-textarea{
+.Footer-textarea {
 	resize: none;
 }
 
 /* Utilidades
    ========================================================================== */
-.u-title{
+.u-title {
 	color: #E97373;
 	border-bottom: 2px dashed #E97373;
 	font-size: 1.5em;
